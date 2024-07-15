@@ -1,0 +1,50 @@
+rno,name,age,gender,exam_centre,school,city,maths,science,sst,english,hindi,total,percentage,passing_status
+11256,Aryan,15,M,Subodh,Oxford,Jaipur,85,80,86,78,82,411,82.2,Pass
+11254,Aishwarya,16,F,Sr_Global, Rawat,Kota,56,55,59,60,53,283,56.6,Pass
+11248,Ansh,17,M,Sunshine,JVP,Jaipur,75,76,75,72,79,377,75.4,Pass
+11257,Anuradha,15,F,Subodh,Oxford,Alwar,66,72,71,65,62,336,67.2,Pass
+11635,Alia,14,F,Sr_Global,JVP,Jaipur,45,49,51,44,41,230,46,Pass
+25562,Anirudh,16,M,Sr_Global, Rawat,Kota,91,80,86,84,82,423,84.6,Pass
+55214,Bhavya,15,F,Subodh,JVP,Jaipur,55,54,59,62,60,290,58,Pass
+22365,Bhaavana,17,F,Sunshine,Oxford,Alwar,33,12,30,28,30,133,26.6,Fail
+88542,Chandra ,15,M,Sr_Global,JVP,Bikaner,56,58,59,55,65,293,58.6,Pass
+56321,Clay,14,M,Sunshine,JVP,Jaipur,88,98,95,90,86,457,91.4,Pass
+42513,Chavi,14,F,Subodh,Oxford,Kota,52,53,50,56,60,271,54.2,Pass
+21458,Dharmendra,14,M,Sr_Global, Rawat,Bikaner,42,22,30,29,25,148,29.6,Fail
+56932,Dhanush,16,M,Subodh,JVP,Kota,58,66,68,64,50,306,61.2,Pass
+74256,Gauri,17,F,Sr_Global,Oxford,Jaipur,52,55,56,59,60,282,56.4,Pass
+11258,Hema,16,F,Sunshine,Oxford,Alwar,45,44,50,56,52,247,49.4,Pass
+33625,Henry,14,M,Subodh, Rawat,Bikaner,95,92,90,85,82,444,88.8,Pass
+23541,Hannah,15,F,Subodh,Oxford,Jaipur,88,85,93,92,99,457,91.4,Pass
+85263,Jack,14,M,Sr_Global,JVP,Kota,75,73,71,70,80,369,73.8,Pass
+45612,Jessica,13,F,Sunshine,JVP,Bikaner,81,79,72,86,80,398,79.6,Pass
+32589,Justin,15,M,Subodh,Oxford,Jaipur,52,44,46,62,56,260,52,Pass
+25472,Jayant,14,M,Sunshine,MGD,Kota,71,80,86,69,84,390,78,Pass
+12541,Kajol,16,F,Subodh, Rawat,Bikaner,56,52,60,62,63,293,59.6,Pass
+25262,Kareena,17,F,Sunshine,MGD,Jaipur,85,82,88,86,83,424,84.8,Pass
+17896,Kartik,16,M,Sr_Global,Oxford,Bikaner,19,27,26,21,22,115,23,Fail
+14632,Katrina,15,F,Sunshine,MGD,Jaipur,59,65,62,69,71,326,65.2,Pass
+56231,Lavina,15,F,Subodh, Rawat,Alwar,54,58,53,52,46,263,52.6,Pass
+22214,Lavish,14,M,Sunshine,Oxford,Jaipur,78,79,85,90,83,415,83,Pass
+12321,Manish,16,M,Sr_Global,Oxford,Jaipur,72,70,80,79,69,370,74,Pass
+15956,Manju,15,F,Sunshine,MGD,Bikaner,52,52,53,51,54,262,52.4,Pass
+22479,Nikhil,14,M,Sunshine,Oxford,Jaipur,21,22,20,31,27,121,24.2,Fail
+16998,Nitin,16,M,Subodh,MGD,Kota,89,92,95,89,84,449,89.8,Pass
+45621,Nisha,13,F,Sunshine, Rawat,Bikaner,98,95,96,94,90,473,94.6,Pass
+85291,Neetu,15,F,Sr_Global,Oxford,Jaipur,45,46,49,52,58,250,50,Pass
+74145,Priyanshi,16,F,Sr_Global,MGD,Alwar,55,58,59,60,62,294,58.8,Pass
+38941,Pankaj,14,M,Subodh, Rawat,Jaipur,85,80,86,88,79,418,83.6,Pass
+22541,Parineeti,12,F,Subodh,Oxford,Kota,55,59,60,68,52,294,58.8,Pass
+45688,Riya,15,F,Sunshine,Oxford,Jaipur,100,99,95,96,98,488,97.6,Pass
+99523,Ruby,14,F,Sr_Global, Rawat,Kota,59,69,58,62,63,311,62.2,Pass
+41458,Ronaldo,16,M,Sr_Global,MGD,Bikaner,51,60,53,56,52,272,54.4,Pass
+74563,Rohit,15,M,Sunshine,Oxford,Jaipur,100,97,94,95,97,483,96.6,Pass
+74564,Siya,15,F,Sunshine,Oxford,Jaipur,85,86,90,95,91,447,89.4,Pass
+64649,Sangeeta,16,F,Subodh, Rawat,Kota,81,84,85,86,85,421,84.2,Pass
+42425,Suraj,17,M,Sunshine,MGD,Kota,73,80,71,77,78,379,75.8,Pass
+85698,Tarun,16,M,Sr_Global,MGD,Jaipur,28,59,40,41,32,200,40,Pass
+56982,Tanya,15,F,Subodh,Oxford,Kota,52,40,48,46,39,225,45,Pass
+23651,Vansh,14,M,Sunshine, Rawat,Jaipur,12,15,26,28,29,110,22,Fail
+28715,Vamika,15,F,Subodh,MGD,Bikaner,65,63,60,54,52,294,58.8,Pass
+22369,Yashika,16,F,Sr_Global,Oxford,Alwar,45,49,50,52,51,247,49.4,Pass
+58314,Ziya,14,F,Subodh,MGD,Jaipur,78,85,86,79,80,408,81.6,Pass
